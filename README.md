@@ -14,7 +14,7 @@ An e-commerce app that integrates with an accounting & HR system, serving as a p
 and many more 
 
 # Technologies  
-Uses HTML5 and CSS3 for an interactive yet simplistic design, and utilizes .NET Framework and RESTful API for server-side communication.
+Built with .NET Web Forms, and RESTful API for server-side communication.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET%20Framework-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  ![REST API](https://img.shields.io/badge/RESTful%20API-%2300843e.svg?style=for-the-badge&logo=api&logoColor=white)
 
